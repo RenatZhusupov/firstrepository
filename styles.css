@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+
+background-color: rgb(240, 229, 214);
+font-weight: normal;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.zagolovok {
+    font-size: 50px;
+}
+.papich {
+    margin-left: 10px;
+    width: 400px;
+    border-radius: 28px;
+    box-shadow: 4px 4px 5px rgba(0, 0, 0, 25);
+}
+.nuts {
+    display: block;
+    text-align: center;
+}
+.shurup {
+    font-size: x-large;
+    margin-left: 50px;
+}
+.svyaz {
+    font-size: x-large;
+    margin-left: 10px;
+}
+.niz {
+    color: aliceblue;
+    background-color:rgb(23, 21, 21);
+}
